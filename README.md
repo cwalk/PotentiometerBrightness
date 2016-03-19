@@ -12,4 +12,6 @@ Open the Arduino project: `open potentiometerBrightness.ino`
 
 Verify and upload the project to your Arduino.
 
+## YouTube
+
 YouTube: https://www.youtube.com/watch?v=kNAON_5PW5c
