@@ -15,3 +15,7 @@ Verify and upload the project to your Arduino.
 ## YouTube
 
 YouTube: https://www.youtube.com/watch?v=kNAON_5PW5c
+
+## Circuit Diagram
+
+![Circuit Diagram](/Circuit.png?raw=true "Circuit Diagram")
